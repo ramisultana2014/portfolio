@@ -7,8 +7,8 @@ import node from "@/public/node.png";
 import react from "@/public/react.png";
 function Images() {
   return (
-    <div className=" flex flex-col min-[600px]:grid min-[600px]:grid-cols-2 min-[600px]:gap-1">
-      <div className=" overflow-hidden border-solid border border-orange-500 relative h-48  flex items-center  invert ">
+    <div className=" flex flex-col min-[600px]:grid min-[600px]:grid-cols-2 min-[600px]:gap-1 ">
+      <div className=" overflow-hidden border-solid border border-orange-500 relative h-48  flex items-center  invert  ">
         <Image
           fill
           sizes="(max-width:1200px) w-2/5"
