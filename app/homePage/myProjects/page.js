@@ -6,7 +6,7 @@ export const metadata = {
 };
 function page() {
   return (
-    <section className=" px-3 py-3 max-[600px]:h-1/2 max-[600px]:overflow-y-scroll  ">
+    <section className=" px-3 py-3 max-[600px]:h-4/5 max-[600px]:overflow-y-scroll  ">
       <h1 className="border rounded-lg text-center text-blue-200 mb-3 py-2">
         IM using the free tier so Each Application have initial latency up to 1
         minute,after that everything went smoothly
